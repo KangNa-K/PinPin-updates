@@ -1,0 +1,8 @@
+{
+  "versionCode": 5,
+  "versionName": "1.0.2",
+  "apkUrl": "https://api.github.com/repos/KangNa-K/PinPin-updates/releases/assets/630006799",
+  "sha256": "e91611f7c624d269b8ed5e15ade45dd0b8fc0c9f6c99bc33dc49a14d8e21681c",
+  "size": 4614633,
+  "notes": "新增悬浮选区底部工具栏，支持标注、钉图、复制、分享和保存到相册；改进选区显示与精确调整。"
+}
