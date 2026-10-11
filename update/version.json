@@ -1,8 +1,8 @@
 {
-  "versionCode": 7,
-  "versionName": "1.0.4",
-  "apkUrl": "https://api.github.com/repos/KangNa-K/PinPin-updates/releases/assets/630382030",
-  "sha256": "074049e8441f4ae0c321d12305d52c2fa23a4d44330320cd7a04904cdeec9129",
+  "versionCode": 8,
+  "versionName": "1.0.5",
+  "apkUrl": "https://api.github.com/repos/KangNa-K/PinPin-updates/releases/assets/630542917",
+  "sha256": "b4f573388432bf52f1fbd143286ca5400f791051ca3b4963a379f7bfb8f62274",
   "size": 4598285,
-  "notes": "优化智能形状识别，提升三角形、正方形和长方形的识别稳定性；修复图模式悬浮工具栏自动换行，始终保持单行显示；修复穿透按钮在移动、缩放和系统窗口坐标变化时发生偏移。"
+  "notes": "修复钉图拖动误触：仅允许从钉住的图片范围内开始拖动；工具栏、图片上的操作按钮及透明留白不会触发图片拖动。从图片外滑入不会误触拖动、缩放或切换工具栏，正常图片拖动和角落缩放保持不变。"
 }
