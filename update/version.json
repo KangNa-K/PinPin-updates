@@ -1,8 +1,8 @@
 {
-  "versionCode": 5,
-  "versionName": "1.0.2",
-  "apkUrl": "https://api.github.com/repos/KangNa-K/PinPin-updates/releases/assets/630006799",
-  "sha256": "e91611f7c624d269b8ed5e15ade45dd0b8fc0c9f6c99bc33dc49a14d8e21681c",
-  "size": 4614633,
-  "notes": "新增悬浮选区底部工具栏，支持标注、钉图、复制、分享和保存到相册；改进选区显示与精确调整。"
+  "versionCode": 6,
+  "versionName": "1.0.3",
+  "apkUrl": "https://api.github.com/repos/KangNa-K/PinPin-updates/releases/assets/630259140",
+  "sha256": "0c61420b5c560ef18189472251ad12b519e7f6bde47cedde5f2fdda48c625aeb",
+  "size": 4598285,
+  "notes": "改进智能形状识别：提升三角形、正方形和长方形在旋转、抖动、采样不均和快速绘制场景下的识别准确性；对梯形、平行四边形、缺边和多圈轨迹保持保守拒识。"
 }
