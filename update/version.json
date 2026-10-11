@@ -1,8 +1,8 @@
 {
-  "versionCode": 6,
-  "versionName": "1.0.3",
-  "apkUrl": "https://api.github.com/repos/KangNa-K/PinPin-updates/releases/assets/630259140",
-  "sha256": "0c61420b5c560ef18189472251ad12b519e7f6bde47cedde5f2fdda48c625aeb",
+  "versionCode": 7,
+  "versionName": "1.0.4",
+  "apkUrl": "https://api.github.com/repos/KangNa-K/PinPin-updates/releases/assets/630382030",
+  "sha256": "074049e8441f4ae0c321d12305d52c2fa23a4d44330320cd7a04904cdeec9129",
   "size": 4598285,
-  "notes": "改进智能形状识别：提升三角形、正方形和长方形在旋转、抖动、采样不均和快速绘制场景下的识别准确性；对梯形、平行四边形、缺边和多圈轨迹保持保守拒识。"
+  "notes": "优化智能形状识别，提升三角形、正方形和长方形的识别稳定性；修复图模式悬浮工具栏自动换行，始终保持单行显示；修复穿透按钮在移动、缩放和系统窗口坐标变化时发生偏移。"
 }
