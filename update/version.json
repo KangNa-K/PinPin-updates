@@ -1,8 +1,8 @@
 {
-  "versionCode": 8,
-  "versionName": "1.0.5",
-  "apkUrl": "https://api.github.com/repos/KangNa-K/PinPin-updates/releases/assets/630685211",
-  "sha256": "a247a9c11048b144d5495be8d83b8d5738a1e247a0e9e178b05a970125c20789",
-  "size": 4598285,
-  "notes": "修复钉图左右透明区域拦截触摸、相邻图片无法点击或缩放的问题：悬浮窗宽度跟随图片，窄图工具栏可横向滚动。仅从图片主体开始的触摸可触发拖动、缩放或切换工具栏，操作按钮和图片外触摸不会误触图片手势。"
+  "versionCode": 9,
+  "versionName": "1.1.0",
+  "apkUrl": "https://api.github.com/repos/KangNa-K/PinPin-updates/releases/assets/677184127",
+  "sha256": "1e4060c80832a3cd0d474d2b70349ebbbc15d08441750a51bcc2691630b2922c",
+  "size": 4614665,
+  "notes": "新增悬浮球长按识图截图、缩入动效、图片携带与原生拖放，支持保存到相册、分享和手动框选回退。三星 One UI 8.5、小红书、三星相册与 Magpie 的完整链路尚未真机验收；目标应用需支持图片拖放。"
 }
