@@ -1,8 +1,8 @@
 {
-  "versionCode": 13,
-  "versionName": "1.1.4",
-  "apkUrl": "https://api.github.com/repos/KangNa-K/PinPin-updates/releases/assets/679882942",
-  "sha256": "05d2bccdaa440c1d1208de0509597ad577082271ccbec04ec17bbc7775ef8d28",
-  "size": 5087369,
-  "notes": "保留悬浮球长按停留后自动截图吸图；修复顶部贴边图片连接说明区时识别失败并退回手动框选的问题。无法可靠判断时仍保留手动框选。三星平板小红书完整实机链路未完成验收。"
+  "versionCode": 14,
+  "versionName": "1.1.5",
+  "apkUrl": "https://api.github.com/repos/KangNa-K/PinPin-updates/releases/assets/680124488",
+  "sha256": "d0f9caf4f9c28e6c28324aa0126d53718536d258f45d7355630912b92142fbf8",
+  "size": 5087925,
+  "notes": "继续优化自动吸图识别，避免因无障碍父节点边界未命中而漏检图片子节点，并增加识别诊断日志。识别不可靠时仍回退手动框选。Android 15 模拟器测试通过；三星平板小红书完整实机链路未验收。"
 }
