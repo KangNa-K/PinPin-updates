@@ -1,8 +1,8 @@
 {
-  "versionCode": 11,
-  "versionName": "1.1.2",
-  "apkUrl": "https://api.github.com/repos/KangNa-K/PinPin-updates/releases/assets/677411490",
-  "sha256": "cd13fb3c77bde2757d2070af0a80aab58aa75ff0d62a1521afb3bacdb8d366e5",
-  "size": 4614665,
-  "notes": "修复首次吸图后，携带图片状态下再次长按不触发自动截图的问题；支持连续长按吸图与同一手势拖放。目标接受后清空悬浮球，拒收或取消保留。Android 15 模拟器连续三次跨应用拖入 Magpie 的接收、导入及清空验证通过；三星 One UI 8.5 真机与小红书完整截图识别过程仍待验收。本次不更新 Magpie。"
+  "versionCode": 13,
+  "versionName": "1.1.4",
+  "apkUrl": "https://api.github.com/repos/KangNa-K/PinPin-updates/releases/assets/679882942",
+  "sha256": "05d2bccdaa440c1d1208de0509597ad577082271ccbec04ec17bbc7775ef8d28",
+  "size": 5087369,
+  "notes": "保留悬浮球长按停留后自动截图吸图；修复顶部贴边图片连接说明区时识别失败并退回手动框选的问题。无法可靠判断时仍保留手动框选。三星平板小红书完整实机链路未完成验收。"
 }
