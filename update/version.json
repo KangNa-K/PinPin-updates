@@ -1,8 +1,8 @@
 {
-  "versionCode": 15,
-  "versionName": "1.1.6",
-  "apkUrl": "https://api.github.com/repos/KangNa-K/PinPin-updates/releases/assets/703660278",
-  "sha256": "3f76f8569038dcb83eec0fad652202e6d99dbc3da877ec717a01f4d70d2fd113",
+  "versionCode": 16,
+  "versionName": "1.1.7",
+  "apkUrl": "https://api.github.com/repos/KangNa-K/PinPin-updates/releases/assets/720800201",
+  "sha256": "138d5261a38dc410240a16a2f0a22f99fa576aa66350a4c3a27919835e883f93",
   "size": 5087925,
-  "notes": "新增长按钉图取色，支持查看和复制色号，并显示色相、饱和度和明度。优化取色放大镜、色环与主题自适应胶囊，修复截图选择框调整和系统栏遮挡问题。"
+  "notes": "悬浮球支持直接下滑打开通知栏，位置保持不变；长按后可拖动，拖动时停顿可进入截图选区。下滑打开通知栏需要启用钉图无障碍服务。"
 }
